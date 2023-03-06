@@ -1,8 +1,8 @@
 <h2>SUMMARY</h2>
 
-✏️ After 4 years of experience as a project engineer involved in a lot of projects centered around the development of new applications/tools, I am preparing to train as an Application Designer and Developer with the school <a href="https://oclock.io/formations/alternance">O'Clock</a> and I am looking for an apprenticeship contract while I prepare my bachelor of fullstack web developer. I am French and based in Ile-de-France.
+✏️ After 4 years of experience as a project engineer involved in a lot of projects centered around the development of new applications/tools, I am preparing to train as an Web & Web Mobile Developer with <a href="https://alt-rh.com/">ALT-RH Consulting</a>. I am French and based in Ile-de-France.
 
-⚙️ I'm currently working with HTML, CSS, JavaScript, PHP and my professional goal is to sign an apprenticeship contract in order to work in the company on a long term basis. My aim is to design high quality, maintanable and scalable products in order to deliver a great experience to the user and my team. 
+⚙️ I'm currently working with HTML, CSS, JavaScript, PHP and my professional goal is to sign a contract in order to work in the company on a long term basis. My aim is to design high quality, maintanable and scalable products in order to deliver a great experience to the user and my team. 
 <br>
 
 <br>
