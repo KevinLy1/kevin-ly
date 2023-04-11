@@ -1,6 +1,6 @@
 ## Langue
 
-[Français](README.fr.md), [English](README.md)
+[Français](README.fr.md) | [English](README.md)
 
 ## RÉSUMÉ
 
