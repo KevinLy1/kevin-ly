@@ -14,7 +14,7 @@ HTML, CSS, JavaScript, PHP, Node.js, Vue.js, WordPress, Git, Linux, Unix shell, 
 ## CONTACT INFORMATION
 
 📱 Phone number : +33 6 34 37 07 66\
-✉️ contact@kevinly.fr
+✉️ kevin.ly.ap@outlook.com
 
 ## MORE ABOUT ME
 
